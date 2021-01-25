@@ -1,0 +1,27 @@
+{
+  "name": "conversationapp",
+  "version": "1.0.0",
+  "description": "app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChurchOnline/conversationapp.git"
+  },
+  "keywords": [
+    "rohapp"
+  ],
+  "author": "Jade M\\anlutac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheChurchOnline/conversationapp/issues"
+  },
+  "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
+  "homepage": "https://github.com/TheChurchOnline/conversationapp#readme",
+  "dependencies": {
+    "@ionic/angular-toolkit": "^3.0.0",
+    "package.json": "^2.0.1"
+  }
+}
