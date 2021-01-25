@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235488591333",
+    "project_id": "conversation-app-32621",
+    "storage_bucket": "conversation-app-32621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235488591333:android:a4c41d69f53c871595c30c",
+        "android_client_info": {
+          "package_name": "com.conversations.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235488591333-uhiv0sjvcsk6n3fdp6c37almljbscgik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKycBokDnKNyY5PqhvaduGkLGMWv8_POw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235488591333-uhiv0sjvcsk6n3fdp6c37almljbscgik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
