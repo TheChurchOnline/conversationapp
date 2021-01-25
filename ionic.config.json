@@ -1,7 +1,0 @@
-{
-  "name": "conversationapp",
-  "type": "custom",
-  "integrations": {
-    "cordova": {}
-  }
-}
