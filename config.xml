@@ -19,8 +19,8 @@
     </edit-config>
 
     <preference name="phonegap-version" value="cli-9.0.0" />
-    <preference name="android-targetSdkVersion" value="28" />
-    <preference name="android-minSdkVersion" value="19" />
+    <preference name="android-targetSdkVersion" value="29" />
+    <preference name="android-minSdkVersion" value="22" />
     
     <plugin name="cordova-plugin-statusbar" source="npm" version="2.4.1" />
     <plugin name="cordova-plugin-x-socialsharing" source="npm" spec="5.2.1" />
