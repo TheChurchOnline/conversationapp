@@ -27,11 +27,11 @@
     <plugin name="cordova-plugin-file-opener2" source="npm" spec="3.0.0" />
     <plugin name="cordova-plugin-media" spec="3.0.1" />
     <plugin name="phonegap-plugin-push" source="npm" spec="2.2.3">
-       <!-- <param name="SENDER_ID" value="880802505050" />-->
+        <param name="SENDER_ID" value="431250589405" />
     </plugin>
-   <!-- <platform name="android">
+    <platform name="android">
         <resource-file src="google-services.json" target="app/google-services.json" />
-    </platform>-->
+    </platform>
 
     <!--CAMERA-DONOTREMOVE-->
     <!--GEO-DONOTREMOVE-->
