@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "235488591333",
-    "project_id": "conversation-app-32621",
-    "storage_bucket": "conversation-app-32621.appspot.com"
+    "project_number": "431250589405",
+    "project_id": "conversation-303115",
+    "storage_bucket": "conversation-303115.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:235488591333:android:a4c41d69f53c871595c30c",
+        "mobilesdk_app_id": "1:431250589405:android:f777211ddfcda3a6d17d34",
         "android_client_info": {
-          "package_name": "com.conversations.app"
+          "package_name": "com.church.conversationsapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "235488591333-uhiv0sjvcsk6n3fdp6c37almljbscgik.apps.googleusercontent.com",
+          "client_id": "431250589405-tf2kserniqr4k2mcupsg5tvtpmacrcgk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBKycBokDnKNyY5PqhvaduGkLGMWv8_POw"
+          "current_key": "AIzaSyBmlF23Zo4pfyY4ZWOPpiC9OZ1d1RXLvaE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "235488591333-uhiv0sjvcsk6n3fdp6c37almljbscgik.apps.googleusercontent.com",
+              "client_id": "431250589405-tf2kserniqr4k2mcupsg5tvtpmacrcgk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
