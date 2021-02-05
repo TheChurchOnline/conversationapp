@@ -6,7 +6,7 @@
     <platform name="ios" />
     <platform name="android" />
     <edit-config file="*-Info.plist" mode="merge" target="CFBundleShortVersionString">
-        <string>100</string>
+        <string>200</string>
     </edit-config>
     
     <preference name="phonegap-version" value="cli-9.0.0" />
